@@ -9,7 +9,7 @@ const LoginSignup = () => {
           <input type='text' placeholder='Your Name'/>
           <input type='email' placeholder='Email Address'/>
           <input type='password' placeholder='Password'/>
-          <button>Continue</button>
+
         </div>
         
         <p className="loginsignup-login">
